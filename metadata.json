@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient Experience Intelligence System",
+  "description": "Hierarchical multi-agent AI orchestration platform for hospital managers to analyze patient feedback, triage complaints, evaluate communication, and make executive decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
